@@ -8,7 +8,7 @@ import java.util.Stack;
 
 // My Non-Recursive
 // Time Complexity: O(n), n is the node number in the tree
-// Space Complexity: O(h), h is the height of the tree
+// Space Complexity: O(n), n is the node number in the tree
 public class Solution2 {
 
     private class Command{
